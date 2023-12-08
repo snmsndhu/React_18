@@ -3,7 +3,9 @@ import Alert from "./components/Alert";
 function App() {
   return (
     <div>
-      <Alert>Hello World</Alert>
+      <Alert>
+        <span>Hello World</span>
+      </Alert>
     </div>
   );
 }
