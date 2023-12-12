@@ -1,9 +1,9 @@
-import { SlCalender } from "react-icons/sl";
+import Like from "./components/Like";
 
 function App() {
   return (
     <div>
-      <SlCalender color="red" size="40" />
+      <Like />
     </div>
   );
 }
